@@ -1,0 +1,507 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro 30
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1022746.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25808.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV1  (direct source)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912825.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25809.ts
+#EXTINF:0 tvg-id="tv3" group-title="[KT] MY",[MY] TV3
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25810.ts
+#EXTINF:0 tvg-id="tv3" group-title="[KT] MY",[MY] TV3 (A)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912827.ts
+#EXTINF:0 tvg-id="tv3" group-title="[KT] MY",[MY] TV3 (B)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912828.ts
+#EXTINF:0 tvg-id="ntv7" group-title="[KT] MY",[MY] NTV7
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25811.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 8TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25812.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV9
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25813.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Drama Hebat
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/999746.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Oh My Ceria
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1019162.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Jom Ngaji
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1019163.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Filem Mantap
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1025978.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Drama HotPot
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1025979.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Lawak Sentral
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1025980.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TVS
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656643.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV IKIM
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656644.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] OKEY TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656682.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] OKEY TV (direct source)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25875.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Berita RTM
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/900904.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Channel 5
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25833.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Channel 8
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25834.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Channel U
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25835.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CNA
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25837.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Suria
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25844.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Vasantham
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25848.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Warna
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1130534.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Sensasi
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1130535.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO Citra(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25852.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO Citra (B)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/913177.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO RIA HD(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25855.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO RIA HD (B)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912833.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO PRIMA HD(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25862.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO OASIS HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25864.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Rania HD(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/908356.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Aura HD(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/908357.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TV ALHIJRAH
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25906.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] COLORS HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25928.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Vaanavil
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25959.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Vinmeen
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1012902.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Vellithirai
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/918423.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Sun TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/911358.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] SUN MUSIC
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25933.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Adithya
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26242.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Sun news
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/911013.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] KTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/511756.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Sun Life
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25934.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO Star Vijay HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25944.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] COLORS TAMIL
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25947.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Z Tamil HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25949.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ABO Movies Thangathirai
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1012903.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Z Cinema HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/911366.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 爱奇艺 iQiyi
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25961.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] AEC HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25968.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro QJ(token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25970.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 翡翠华丽台
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25972.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro AOD(双音轨)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912839.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY]  欢喜台
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25973.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TVB 星河(双音轨)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25977.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TVB 经典台
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25979.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TVB Entertainment News HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/918425.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 天映频道 HD(双音轨)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25981.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 天映经典 (双音轨)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25982.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Phoenix Chinese Channel HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25984.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Phoenix Info News HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25985.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] TVBS ASIA HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25986.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 中天亚洲
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25987.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Mango TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1126292.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] U-Panda TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1126293.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Hits Now
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/25990.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] tvN HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26001.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] tvN Movies
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26003.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] KBS World HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26006.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Daebak
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26009.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] K-plus
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26029.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] BOO
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/834387.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Showtime HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916397.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] HBO HD(sub)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26076.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Rock x Stream HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916401.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] HBO Hits (sub)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26077.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] HBO Signature (sub)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26080.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Rock Action
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916400.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] HBO Family (sub)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656642.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] FAM Time
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916398.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Cinemax (sub)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/901187.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Astro Showcase
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916399.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Thrill
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26094.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Hits Movies HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26102.ts
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="[KT] MY",[MY]SKY NEWS HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26156.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Euronews
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26158.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ABC AUSTRALIA
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26160.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] DW HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26162.ts
+#EXTINF:0 tvg-id="france24" group-title="[KT] MY",[MY] FRANCE24 HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26165.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ASTRO Awani HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26167.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Bernama News
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26169.ts
+#EXTINF:0 tvg-id="cnn" group-title="[KT] MY",[MY] CNN HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26171.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] BBC News HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26174.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Al-Jazzera HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26177.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Bloomberg TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26179.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CCTV4 HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26181.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CGTN
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26192.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CNBC Asia HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26195.ts
+#EXTINF:0 tvg-id="LoveNature" group-title="[KT] MY",[MY] Love Nature
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916402.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Global Trekker
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916403.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] NatGeo HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26197.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] NatGeo Wild HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26205.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Discovery HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26207.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Discovery Asia
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26209.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Animal Planet HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26211.ts
+#EXTINF:0 tvg-id="history" group-title="[KT] MY",[MY] History HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26213.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Ceria (token)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912821.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Tutor TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/912561.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ANIMAX
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26240.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Aniplus
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1122906.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Blippi And Friends
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1012102.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Moonbug Kids
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26200.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CARTOON NTWK HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26273.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] NICKELODEON HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26275.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] NICK JR
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26276.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Pokemon
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1126272.ts
+#EXTINF:0 tvg-id="axn" group-title="[KT] MY",[MY] AXN HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26282.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] HITS HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26284.ts
+#EXTINF:0 tvg-id="tlc" group-title="[KT] MY",[MY] TLC HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26285.ts
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="[KT] MY",[MY]FOOD NTWK HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26286.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Asian Food Network
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/916125.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] LIFETIME
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656641.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Rock Entertainment HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656633.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Rock Action HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/656639.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] C&I HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26288.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] BBC Earth HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26290.ts
+#EXTINF:0 tvg-id="hgtv" group-title="[KT] MY",[MY] HGTV HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26294.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY]DMAX HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26296.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] COMEDY CENTRAL
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/26297.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTB sukmaindera
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/897360.ts
+#EXTINF:0 tvg-id="tv3" group-title="[KT] MY",[MY] TV3 (C)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/694449.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Arirang
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/694473.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] CGTN Documentary
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/694497.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] KBS World
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/870506.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] ANIMAX
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/933048.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY]RockAction
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/933050.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Snap
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033035.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Lead
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033036.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Apetito
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033037.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Fitrah
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033038.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Junior
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033039.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Roll
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033040.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] RTM Aura
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1033041.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Dunia Sinema
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113867.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Degup
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113868.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Siar
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113869.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Sensasi
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113870.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Inspirasi
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113871.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Pesona
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113872.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Salam
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113873.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] 三立国际台
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1113874.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] MY",[MY] Sony Vizha
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1131074.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] inewtv
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73605.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] RCTI
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73606.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] SCTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73607.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Trans TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73608.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Trans 7
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73609.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TV One
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73610.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Metro TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73611.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Kompas TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73612.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] PONTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73613.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Dens Life & Style
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73614.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] MD TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73615.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] MNC TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73616.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Indosiar
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73617.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] ANTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73618.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] GTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73619.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TVRI
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73620.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Dhoho TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73626.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] JTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73627.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TV9 NU
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73629.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] GARUDA TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73631.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Citra drama
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/901193.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Moji TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/901194.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] CNN Indonesia
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73869.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Jiangsu TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73878.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Hunan TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73879.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Shanghai Dragon TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73880.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Anhui TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73882.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TvN
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73985.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TvN Movies
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73986.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Astro Daebak
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73987.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Arirang
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73990.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Kawanua TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/73960.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Nusantaratv
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/34721.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] TATV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/886796.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Dhamma TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/886807.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] CNBC Indonesia
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/886811.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] MQTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/886836.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] DAAI TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/921746.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Bandung TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/921747.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] EWTN
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/946466.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Rtv
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/946467.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] My Cinema Europe
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/946468.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Makkah TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947789.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] rctv
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947917.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] BantenTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947784.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] UGTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947786.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Balikpapan TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947787.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] BANDUNG TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947692.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Bandung tv
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947693.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] Salira TV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/947916.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] BRTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/991027.ts
+#EXTINF:0 tvg-id="ext" group-title=" [KT] Indo",[ID] MDTV
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1106292.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932495.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932496.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 3
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932497.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 4
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932498.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 5
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932499.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 6
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/932500.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 7
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107097.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 8
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107098.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS 9
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107099.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS 1 HD [Live During Events Only]
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107100.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS 2 HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107101.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS 3 HD
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107102.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 4 HD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107103.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107104.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107105.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107106.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 8 FHD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107107.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107108.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[FR] BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107109.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] Bein Sports 1 English
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107110.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS ENGLISH 2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107111.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS ENGLISH 3 [Live During Events Only]
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107112.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS PREMIUM 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107113.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS PREMIUM 2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107114.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS PREMIUM 3
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107115.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS XTRA 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107116.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS XTRA 2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107117.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS XTRA 3 (MATCH TIME)
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107118.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS MAX 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107119.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS MAX 6
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107120.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS NEWS
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107121.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SPORTS En Español
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107123.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN DRAMA 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107124.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN MOONBUG KID
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107125.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN FATAFEAT
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107126.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN GOURMET
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107127.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN JEEM
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107128.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN MOVIES 1 PREMIERE
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107129.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN MOVIES 2 ACTION
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107130.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN MOVIES 3 DRAMA
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107131.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN MOVIES 4 FAMILY
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107132.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SERIES 1
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107133.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN SERIES 2
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107134.ts
+#EXTINF:0 tvg-id="ext" group-title="[KT] Bein Package",[AR] BEIN TRAVEL
+http://ktpremium.world:2095/live/Nusrah/Fatimah49/1107135.ts
